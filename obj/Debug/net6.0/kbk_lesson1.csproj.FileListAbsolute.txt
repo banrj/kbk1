@@ -1,0 +1,15 @@
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/bin/Debug/net6.0/kbk_lesson1
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/bin/Debug/net6.0/kbk_lesson1.deps.json
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/bin/Debug/net6.0/kbk_lesson1.runtimeconfig.json
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/bin/Debug/net6.0/kbk_lesson1.dll
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/bin/Debug/net6.0/kbk_lesson1.pdb
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/kbk_lesson1.csproj.AssemblyReference.cache
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/kbk_lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/kbk_lesson1.AssemblyInfoInputs.cache
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/kbk_lesson1.AssemblyInfo.cs
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/kbk_lesson1.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/kbk_lesson1.dll
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/refint/kbk_lesson1.dll
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/kbk_lesson1.pdb
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/kbk_lesson1.genruntimeconfig.cache
+/Users/macbook/Projects/kbk_lesson1/kbk_lesson1/obj/Debug/net6.0/ref/kbk_lesson1.dll
